@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17462919135",
+    "project_id": "shopping-app-db-1",
+    "storage_bucket": "shopping-app-db-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17462919135:android:8b6dc18a407a40bcb6ce6a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17462919135-vf8hu352duvq2jlukp271tpmm4l1sjvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCULLxXi0RGuMs8Ol5-rfqoQvKbeq1DZNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17462919135-vf8hu352duvq2jlukp271tpmm4l1sjvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
